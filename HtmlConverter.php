@@ -5,8 +5,8 @@ namespace MaxBeckers\HtmlConverter;
 /**
  * @author Maximilian Beckers <beckers.maximilian@gmail.com>
  */
-class HtmlConverter {
-
+class HtmlConverter
+{
     /**
      * Format plaintext to html.
      *
