@@ -1,0 +1,28 @@
+{
+  "name": "maxbeckers/htmlconverter",
+  "type": "library",
+  "description": "This PHP class can convert html to plaintext and plaintext to html.",
+  "keywords": [
+    "html converter"
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/maxbeckers/htmlconverter/issues",
+    "source": "https://github.com/maxbeckers/htmlconverter"
+  },
+  "authors": [
+    {
+      "name": "Maximilian Beckers",
+      "email": "beckers.maximilian@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "MaxBeckers\\HtmlConverter\\": ""
+    }
+  }
+}
